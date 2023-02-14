@@ -11,9 +11,9 @@ I love the entire process of figuring out how things work and eventually getting
 #
 
 ### :handshake: Connect with me: 
-<a href="https://t.me/paklemenel/"><img align="left" src="https://raw.githubusercontent.com/PavelKleymenov/PavelKleymenov/main/telegram.svg" alt="Pavel" height="30"/></a>
+<a href="https://t.me/paklemenel/"><img align="left" src="https://raw.githubusercontent.com/PavelKleymenov/PavelKleymenov/main/assets/telegram.svg" alt="Pavel" height="30"/></a>
 
-<a href ="https://kleymenov.math1997@gmail.com"><img align="left" src="https://raw.githubusercontent.com/PavelKleymenov/PavelKleymenov/main/gmail.svg" alt="" height="30"/></a>
+<a href ="https://kleymenov.math1997@gmail.com"><img align="left" src="https://raw.githubusercontent.com/PavelKleymenov/PavelKleymenov/main/assets/gmail.svg" alt="" height="30"/></a>
 
 <p align="left"> - 💬 I'm always grateful to receive any feedback </p>
 
