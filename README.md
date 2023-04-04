@@ -13,7 +13,7 @@ I love the entire process of figuring out how things work and eventually getting
 ### :handshake: Connect with me: 
 <a href="https://t.me/paklemenel/"><img align="left" src="https://raw.githubusercontent.com/PavelKleymenov/PavelKleymenov/main/assets/telegram.svg" alt="Pavel" height="30"/></a>
 
-<a href ="https://kleymenov.math1997@gmail.com"><img align="left" src="https://raw.githubusercontent.com/PavelKleymenov/PavelKleymenov/main/assets/gmail.svg" alt="" height="30"/></a>
+<a href ="mailto:kleymenov.math1997@gmail.com"><img align="left" src="https://raw.githubusercontent.com/PavelKleymenov/PavelKleymenov/main/assets/gmail.svg" alt="" height="30"/></a>
 
 <p align="left"> - 💬 I'm always grateful to receive any feedback </p>
 
@@ -44,6 +44,6 @@ These are technologies that I'm either using or in the midst of learning.
 
 ### 📊 Stats
    <div align="center">
-      <img height="180em" src="https://github-readme-stats-navy-iota-31.vercel.app/api?username=PavelKleymenov&theme=moltack&show_icons=true"/>
+      <img height="180em" src="https://github-readme-stats-navy-iota-31.vercel.app/api?username=PavelKleymenov&theme=cobalt2&show_icons=true"/>
    </div>
 
