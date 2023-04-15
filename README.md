@@ -8,12 +8,11 @@ I love the entire process of figuring out how things work and eventually getting
 <a href="https://github.com/PavelKleymenov?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PavelKleymenov?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
+
 #
 
 ### :handshake: Connect with me: 
 <a href="https://t.me/paklemenel/"><img align="left" src="https://raw.githubusercontent.com/PavelKleymenov/PavelKleymenov/main/assets/telegram.svg" alt="Pavel" height="30"/></a>
-
-<a href ="mailto:kleymenov.math1997@gmail.com"><img align="left" src="https://raw.githubusercontent.com/PavelKleymenov/PavelKleymenov/main/assets/gmail.svg" alt="" height="30"/></a>
 
 <p align="left"> - 💬 I'm always grateful to receive any feedback </p>
 
