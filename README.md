@@ -6,7 +6,11 @@ I love the entire process of figuring out how things work and eventually getting
 - :telescope: I’m currently looking for a job as a Junior Developer
 - :rocket: Learning Django, JavaScript, and much more
 <a href="https://github.com/PavelKleymenov?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PavelKleymenov?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PavelKleymenov?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> </a>
+ <a href="https://leetcode.com/PavelKleymenov/">
+ <img src="https://user-images.githubusercontent.com/66707636/198589249-531ea4f3-4dc2-4f54-9a78-578b10ba0fc1.svg" alt="leetcode">
+ </a>
+     
 
 
 #
