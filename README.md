@@ -32,6 +32,7 @@ These are technologies that I'm either using or in the midst of learning.
     <img align="center" alt="flask" height="50" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
     <img align="center" alt="django" height="50" style="padding-right:10px;" src="https://user-images.githubusercontent.com/66707636/177420913-45f3bb5c-5977-4aae-860c-37b4e98d5d5f.svg" />
     <img align="center" alt="sql" height="50" style="padding-right:10px;" src="https://user-images.githubusercontent.com/66707636/177421957-562cd30d-4b8b-4ca0-b672-5062abdb10f4.svg"/>
+    <img align="center" width="45px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/66707636/177422016-2758da9c-9482-421d-a438-7fc96f4c550a.svg" alt="mongodb">
     <img align="center" alt="sqlite" height="50" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
     <img align="center" alt="html" height="50" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="css" height="50" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
