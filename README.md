@@ -43,11 +43,5 @@ These are technologies that I'm either using or in the midst of learning.
     <img align="center" alt="gitHub" height="50" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img align="center" alt="vscode" height="50" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </div>
-  
-#
-
-### 📊 Stats
-   <div align="center">
-      <img height="180em" src="https://github-readme-stats-navy-iota-31.vercel.app/api?username=PavelKleymenov&theme=cobalt2&show_icons=true"/>
-   </div>
+ 
 
